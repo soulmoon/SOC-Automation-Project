@@ -148,5 +148,6 @@ This lab is intended only for educational and testing purposes in isolated envir
 
 # 📧 Contact
 Dipak Pakhrin
-
+- 📧 Email: dipakpakhrin06@gmail.com 
+- 💼 LinkedIn: [linkedin.com/in/dipak-pakhrin](https://www.linkedin.com/in/dipak-pakhrin)  
 
